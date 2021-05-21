@@ -1,6 +1,7 @@
 GEM
   remote: https://rubygems.org/
-  specs:custom-build
+  specs:
+  custom-build
 
     
     activesupport (6.0.3.6)
